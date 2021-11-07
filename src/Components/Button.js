@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 const Button=styled.button`
+font-size: 14px;
 width: auto;
 padding: 5px;
 margin: 0 5px;
